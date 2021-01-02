@@ -1,0 +1,139 @@
+{
+  "minecraft": {
+    "version": "1.5.2",
+    "modLoaders": [
+      {
+        "id": "forge-7.8.1.737",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "FTB Unleashed Plus",
+  "version": "1.1.7",
+  "author": "FTB",
+  "files": [
+    {
+      "projectID": 229073,
+      "fileID": 2232153,
+      "required": false
+    },
+    {
+      "projectID": 238856,
+      "fileID": 2361594,
+      "required": true
+    },
+    {
+      "projectID": 229076,
+      "fileID": 2232176,
+      "required": false
+    },
+    {
+      "projectID": 59769,
+      "fileID": 712871,
+      "required": true
+    },
+    {
+      "projectID": 51195,
+      "fileID": 719775,
+      "required": true
+    },
+    {
+      "projectID": 229084,
+      "fileID": 2232245,
+      "required": true
+    },
+    {
+      "projectID": 223793,
+      "fileID": 2212861,
+      "required": true
+    },
+    {
+      "projectID": 224599,
+      "fileID": 2216732,
+      "required": true
+    },
+    {
+      "projectID": 74120,
+      "fileID": 772553,
+      "required": true
+    },
+    {
+      "projectID": 60793,
+      "fileID": 716178,
+      "required": true
+    },
+    {
+      "projectID": 59857,
+      "fileID": 713097,
+      "required": true
+    },
+    {
+      "projectID": 229310,
+      "fileID": 2233227,
+      "required": true
+    },
+    {
+      "projectID": 61811,
+      "fileID": 719726,
+      "required": true
+    },
+    {
+      "projectID": 229312,
+      "fileID": 2233228,
+      "required": true
+    },
+    {
+      "projectID": 227639,
+      "fileID": 2998575,
+      "required": true
+    },
+    {
+      "projectID": 229316,
+      "fileID": 2233247,
+      "required": true
+    },
+    {
+      "projectID": 229323,
+      "fileID": 2233277,
+      "required": true
+    },
+    {
+      "projectID": 65509,
+      "fileID": 734654,
+      "required": true
+    },
+    {
+      "projectID": 59413,
+      "fileID": 722981,
+      "required": false
+    },
+    {
+      "projectID": 59751,
+      "fileID": 718248,
+      "required": true
+    },
+    {
+      "projectID": 229060,
+      "fileID": 2232029,
+      "required": true
+    },
+    {
+      "projectID": 229061,
+      "fileID": 2232088,
+      "required": true
+    },
+    {
+      "projectID": 59489,
+      "fileID": 712193,
+      "required": true
+    },
+    {
+      "projectID": 229072,
+      "fileID": 2232140,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
